@@ -1,0 +1,25 @@
+# استخدم صورة Node لبناء المشروع
+FROM node:18-alpine as build-stage
+
+WORKDIR /app
+
+# نسخ ملفات الحزم وتثبيت التبعيات
+COPY package*.json ./
+RUN npm install
+
+# نسخ الكود وبناء النسخة النهائية
+COPY . .
+RUN npm run build
+
+# مرحلة الإنتاج: استخدام صورة Nginx لتقديم ملفات البناء
+FROM nginx:stable-alpine as production-stage
+
+# نسخ ملفات البناء إلى مجلد Nginx الافتراضي
+COPY --from=build-stage /app/build /usr/share/nginx/html
+
+# نسخ ملف إعدادات Nginx (اختياري) لتفعيل SPA routing
+COPY nginx.conf /etc/nginx/conf.d/default.conf
+
+EXPOSE 80
+
+CMD ["nginx", "-g", "daemon off;"]
