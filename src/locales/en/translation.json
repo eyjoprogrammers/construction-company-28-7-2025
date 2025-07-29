@@ -1,0 +1,352 @@
+{
+  "header": {
+    "companyName":"EL MOTAHEDA ",
+
+    "home": "Home",
+    "about": "About Us",
+    "services": "Our Services",
+    "projects": "Projects",
+    "licenses": "Licenses",
+    "contact": "Contact Us",
+    "joinus": "Join Us",
+    "partnership": "Partnership",
+    "requestService": "Request Service",
+    "overview":"overview ",
+    "missionVision":"missionVision",
+    "values":"values "
+  },
+  "language": {
+    "switch": "العربية"
+  },
+  "footer": {
+    "rights": "© 2025 Construction Company. All rights reserved.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information",
+    "social": {
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "youtube": "YouTube",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  
+  "hero": {
+    "title": "Al-Riyada Construction & Development Company",
+    "subtitle": "Towards an advanced architectural future with professional expertise"
+  },
+  "about": {
+    "title": "About Us",
+    "desc": "We are a contracting company specializing in construction, infrastructure development, providing integrated solutions to our clients with the highest quality execution according to international standards."
+  },
+  "services": {
+    "title": "Our Services",
+    "items": {
+      "realEstate": {
+        "title": "Real Estate Development",
+        "desc": "We develop modern residential and commercial projects according to the highest standards."
+      },
+      "construction": {
+        "title": "Construction & Contracting",
+        "desc": "Building residential and commercial structures using the latest construction technologies."
+      },
+      "finishing": {
+        "title": "Finishing Works",
+        "desc": "High-quality interior and exterior finishing for all types of buildings."
+      }
+    }
+  },
+  "projects": {
+    "title": "Our Projects",
+    "items": {
+      "tower": {
+        "title": "Al-Riyada Administrative Tower"
+      },
+      "compound": {
+        "title": "Al-Mustaqbal Compound"
+      },
+      "businessCenter": {
+        "title": "Al-Noor Business Center"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Customer Reviews",
+    "items": {
+      "ahmed": {
+        "comment": "Excellent company with strong commitment to deadlines and quality execution."
+      },
+      "sarah": {
+        "comment": "High-quality services and a very professional team."
+      },
+      "khaled": {
+        "comment": "Highly recommended, their work is classy and prices are competitive."
+      }
+    }
+  },
+  "team": {
+    "title": "Our Team",
+    "items": {
+      "omar": {
+        "role": "Project Manager",
+        "bio": "Over 10 years of experience managing engineering projects."
+      },
+      "leila": {
+        "role": "Interior Designer",
+        "bio": "Specialized in designing modern residential and commercial spaces."
+      },
+      "karim": {
+        "role": "Site Engineer",
+        "bio": "Field supervision and precise execution of all construction stages."
+      }
+    }
+  },
+  "certifications": {
+    "title": "Licenses & Certifications",
+    "items": {
+      "generalContract": {
+        "title": "General Contracting License #1201"
+      },
+      "qualityControl": {
+        "title": "Project Quality Certificate #1202"
+      },
+      "realEstateDev": {
+        "title": "Real Estate Development License #1203"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "landline": "Landline",
+    "mobile": "Mobile",
+    "email": "Email",
+    "address": "Address",
+    "addressLine1": "Fawzi Mu'adh Street, Smouha,",
+    "addressLine2": "Alexandria, Egypt",
+    "mapTitle": "Company Location"
+  }
+  ,
+
+
+  "dir": "ltr",
+  "missionVision": {
+    "title": "Our Mission and Vision",
+    "subtitle": "We believe that excellence in execution and future vision are the foundation of any successful project.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "Providing high-quality construction services that meet client needs and exceed expectations, with a focus on safety, timely delivery, and environmental sustainability across all our projects.",
+      "alt": "Our Mission"
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "To be the top choice in the construction field in the region through innovation, quality, and building long-term relationships with our clients and partners.",
+      "alt": "Our Vision"
+    }
+  }
+
+  ,
+
+
+
+  "overview": {
+
+    "title": "Overview",
+    "subtitle": "We have extensive experience in the construction and contracting sector, providing integrated solutions with global standards of quality and reliability.",
+    "whoWeAre": "Who We Are",
+    "paragraph1": "Our company was founded in 2005, and since then we have executed dozens of major projects in various cities. We have a team of highly qualified engineers and technicians who ensure quality and accuracy in every project.",
+    "paragraph2": "We are committed to delivering on time and within the planned budget. Customer satisfaction is the core of our vision, and we always aspire to build long-term partnerships based on trust.",
+    "imageAlt": "Construction Workers"
+  }
+
+
+
+
+
+
+
+
+
+
+
+,"values": {
+  "title": "Our Values",
+  "subtitle": "We build our business on a set of core values that guide our decisions and define our relationships with clients.",
+  "professionalism": {
+    "title": "Professionalism",
+    "desc": "We strive to execute every project with the highest levels of commitment and precision."
+  },
+  "quality": {
+    "title": "Quality",
+    "desc": "We always aim to apply the best global quality standards in our projects."
+  },
+  "transparency": {
+    "title": "Transparency",
+    "desc": "We deal honestly and with integrity with all our partners and clients."
+  },
+  "safety": {
+    "title": "Safety",
+    "desc": "We adhere to occupational safety procedures to protect workers and the community."
+  }
+}
+
+
+,
+"join": {
+  "title": "Join Us",
+  "intro1": "We are always looking for talented professionals to join our dynamic team.",
+  "intro2": "If you are passionate and experienced in the construction field, we welcome your application.",
+  "success": "Thank you for applying! We will contact you soon.",
+  "fullName": "Full Name",
+  "fullNamePlaceholder": "Enter your full name",
+  "email": "Email",
+  "emailPlaceholder": "Enter your email",
+  "phone": "Phone Number",
+  "phonePlaceholder": "Enter your phone number",
+  "upload": "Upload CV (PDF or DOC)",
+  "chooseFile": "Choose CV file",
+  "message": "Message or Additional Info (Optional)",
+  "messagePlaceholder": "Enter any extra details you'd like to share",
+  "submit": "Submit Application"
+}
+
+,
+"licenses": {
+  "title": "Licenses & Certifications",
+  "year": "Year Issued",
+  "building": "Construction Practice License",
+  "safety": "Occupational Safety Certificate",
+  "heavy": "Heavy Equipment Operation License",
+  "iso": "ISO 9001 Quality Certificate",
+  "electric": "Electrical Work License",
+  "environment": "Environmental Protection Certificate",
+  "underground": "Underground Work License",
+  "training": "Construction Worker Training Certificate",
+  "transport": "Heavy Transport License"
+}
+
+
+,"partnership": {
+  "title": "Partnership with Our Company",
+  "whyTitle": "Why Partner With Us?",
+  "whyDescription1": "At our construction company, we believe in the power of collaboration and partnership to build successful and sustainable projects. Partnering with us gives you access to our extensive expertise, resources, and network in construction and development.",
+  "whyDescription2": "Whether you're a small business seeking support or a large entity looking to expand, we welcome you to reach out and build a fruitful partnership.",
+  "companyName": "Company / Organization Name",
+  "companyPlaceholder": "Enter your company name",
+  "contactPerson": "Contact Person Name",
+  "contactPlaceholder": "Enter the contact person's name",
+  "phone": "Phone Number",
+  "phonePlaceholder": "Enter phone number",
+  "email": "Email Address",
+  "emailPlaceholder": "Enter your email",
+  "message": "Message or Additional Details",
+  "messagePlaceholder": "Enter your message or partnership details",
+  "submitButton": "Submit Partnership Request",
+  "successMessage": "Thank you for contacting us! We'll get back to you soon."
+}
+
+,
+"projets":
+{"title": "Our Projects",
+"more": "More",
+"moreAbout": "Show more about project",
+"1": {
+  "title": "Al-Riyada Administrative Tower",
+  "description": "A modern multi-story administrative tower with a unique architectural design."
+},
+"2": {
+  "title": "Future Residential Compound",
+  "description": "An integrated residential project with modern designs and wide green spaces."
+},
+"3": {
+  "title": "Al-Noor Business Center",
+  "description": "A modern business center equipped with the latest technologies for companies."
+},
+"4": {
+  "title": "Urban Renewal Project",
+  "description": "Development of urban areas and improvement of infrastructure comprehensively."
+},
+"5": {
+  "title": "Future Bridge",
+  "description": "Design and construction of a bridge connecting several vital areas of the city."
+},
+"6": {
+  "title": "Modern Shopping Mall",
+  "description": "A full-service commercial building with shops and various services."
+},
+"7": {
+  "title": "Social Housing Project",
+  "description": "Construction of affordable housing units with all necessary services."
+},
+"8": {
+  "title": "International Conference Center",
+  "description": "A modern venue for hosting international conferences and events."
+},
+"9": {
+  "title": "Government Services Building",
+  "description": "Design and implementation of a modern government building serving citizens."
+}}
+
+
+,
+"request": {
+  "title": "Service Request",
+  "successMessage": "Thank you! Your request has been received.",
+  "name": "Full Name",
+  "namePlaceholder": "Enter your full name",
+  "phone": "Phone Number",
+  "phonePlaceholder": "Enter your phone number",
+  "email": "Email Address",
+  "emailPlaceholder": "Enter your email",
+  "serviceType": "Service Type",
+  "selectService": "Select service type",
+  "services": [
+    "General Construction",
+    "Plumbing",
+    "Electrical",
+    "Landscaping",
+    "Interior Finishing",
+    "Infrastructure Projects"
+  ],
+  "details": "Additional Details",
+  "detailsPlaceholder": "Enter any additional details about the service request",
+  "submit": "Submit Request"
+}
+
+
+, "servics": {
+  "title": "Our Services",
+  "list": [
+    {
+      "id": 1,
+      "title": "General Contracting",
+      "description": "Providing integrated solutions in construction with the highest quality."
+    },
+    {
+      "id": 2,
+      "title": "Plumbing and Sewage",
+      "description": "Implementing water and sewage networks using the latest technologies."
+    },
+    {
+      "id": 3,
+      "title": "Electrical Works",
+      "description": "Installing and maintaining electrical systems safely and efficiently."
+    },
+    {
+      "id": 4,
+      "title": "Finishing and Painting",
+      "description": "Executing interior finishing and painting works with modern methods."
+    },
+    {
+      "id": 5,
+      "title": "Landscaping and Coordination",
+      "description": "Designing and implementing innovative landscaping and gardens."
+    },
+    {
+      "id": 6,
+      "title": "General Maintenance Services",
+      "description": "Periodic maintenance for all facilities to ensure continuity of performance."
+    }
+  ]
+}
+
+
+}
