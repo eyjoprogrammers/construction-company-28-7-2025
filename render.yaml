@@ -1,7 +1,10 @@
 services:
   - type: web
-    name: my-react-app
-    env: static
-    staticPublishPath: build
-    branch: main
+    name: react-construction-site
+    env: node
     buildCommand: npm install && npm run build
+    startCommand: npx serve -s build
+    plan: free
+    envVars:
+      - key: NODE_VERSION
+        value: 18
